@@ -1,0 +1,47 @@
+[
+    {
+        "sno":1,
+        "code":"ABRK",
+        "college":"ABR COLLEGE OF ENGG AND TECHNOLOGY",
+        "place":"KANIGIRI",
+        "district":"PKS",
+        "region":"AU",
+        "type":"PVT",
+        "minority":"NA",
+        "insttype":"COED"
+    },
+    {
+        "sno":2,
+        "code":"ANIL",
+        "college":"ANIL NEERUKONDA INSTITUTE OF TECHNOLOGY AND SCI",
+        "place":"BHEEMUNIPATNAM",
+        "district":"VSO",
+        "region":"AU",
+        "type":"PVT",
+        "minority":"NA",
+        "insttype":"COED"
+    },
+    {
+        "sno":3,
+        "code":"BECB",
+        "college":"BAPATLA ENGINEERING COLLEGE",
+        "place":"BAPATLA",
+        "district":"GTR",
+        "region":"AU",
+        "type":"PVT",
+        "minority":"NA",
+        "insttype":"COED"
+    },
+    {
+        "sno":4,
+        "code":"LBCE",
+        "college":"LAKIREDDY BALIREDDY COLLEGE OF ENGINEERING",
+        "place":"MYLAVARAM",
+        "district":"KRI",
+        "region":"AU",
+        "type":"PVT",
+        "minority":"NA",
+        "insttype":"COED"
+    }
+
+]
